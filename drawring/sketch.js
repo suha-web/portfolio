@@ -32,5 +32,3 @@ function draw() {
     x = -200;
   }
 }
-
-
