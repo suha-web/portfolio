@@ -25,7 +25,7 @@ let yOffset;
 let speed = 1;
 
 function setup(){
-	createCanvas (700, 400); 
+	createCanvas (760, 400); 
     textAlign(CENTER, CENTER);
     textFont('Arial');
     textStyle(BOLD);
@@ -48,3 +48,5 @@ function draw() {
         yOffset = height;
     }
 }
+
+
