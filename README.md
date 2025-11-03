@@ -2,7 +2,7 @@
 
 https://suha-web.github.io/portfolio/
 
-1.	[Drawing](Drawing/index.html)
+1.	[Drawing](drawing/index.html)
    
 This project is a visual representation of human relationships and digital ones and the difference between them. This specific code is about the intimate physical action of hugs and kisses in the form of x’s and o’s communicated through text messages. How does this simply letter convey so much and used everyday in text? Most of the code is created using the draw function. I created four circles, one x from two lines and one ellipse. This created two faces. The creation of the variable to move the circles was made for functionality. The reason why the circles move continuously is to portray how everyone uses this message and how it is an international symbol known worldwide. The x’s and o’s stay stationary, and they are just a letter recycle repeatedly as an action through people. I had struggle making the circles move without lagging and not looping. However, I did manage to get them moving. Inspired by Aesthetic programming.
 
