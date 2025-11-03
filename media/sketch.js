@@ -5,8 +5,8 @@ let fading = false;
 
 function preload(){
   img = loadImage('IMG_2643.jpg');
-  sound = loadSound("code .m4a");
-  project = loadSound("Project-[Extract]IMG_5837.Mov.m4a")
+  sound = loadSound("code.m4a");
+  project = loadSound("video.m4a")
 
 }
 
